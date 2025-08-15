@@ -1,1 +1,1 @@
-# Exploring and Implementing GraphQL
+# Characters pages and ids
